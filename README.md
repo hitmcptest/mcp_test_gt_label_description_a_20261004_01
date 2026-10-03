@@ -1,0 +1,2 @@
+# mcp_test_gt_label_description_a_20261004_01
+mcp_test_ isolated public label description fixture
